@@ -2,10 +2,10 @@
 Edu Bassey's portfolio
 
 **Edu Bassey** <br>
-Frontend Web Developer and Cross-platform Mobile App Developer.
+Frontend Web Developer.
 
 **Technologies stack:** <br>
-I use the HTML5, CSS3, SASS, Figma, Git/Github, Bootstrap, Javascript, React.js, Canva, Microsoft packages and a couple more.<br>
+I use the HTML5, CSS3, SASS, Figma, Git/Github, Bootstrap, Javascript, React.js, Canva, Microsoft office packages and a couple more.<br>
 My tech journey's not limited to these aforementioned though cause I'm just getting started.
 
 **Extra-programming capabilities:** <br>
